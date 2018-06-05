@@ -1,4 +1,4 @@
-baseurl = "https://floridagulfcoastgenerators.com"
+baseurl = "https://ckunderd.github.io/gcg/"
 title = "Gulf Coast Generators"
 theme = "hugo-universal-theme"
 themesDir = "themes"
