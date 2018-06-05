@@ -7,7 +7,7 @@ publishDir = "docs"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -55,9 +55,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Mitch Mountney"
+    defaultKeywords = ["generators", "florida", "gulf coast"]
+    defaultDescription = "Florida Gulf Coast Generators"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -78,10 +78,10 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "mitchmountney@gmail.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>We offer over 30 years of experience in the electrical industry. We take on a wide range of generator installations and repairs and a variety of other jobs. We are committed to providing a personalized service for each individual project we take on and look forward to building strong, long-term relationships with our clients while guaranteeing your satisfaction.</p>"
+    copyright = "Copyright &copy; 2018, Gulf Coast Generators | All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -147,7 +147,7 @@ paginate = 10
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Brands"
     subtitle = ""
 
 [params.recent_posts]

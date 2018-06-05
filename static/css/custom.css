@@ -14,7 +14,6 @@ body, h1, h2, h3, h4, h5, h6 {font-family: Montserrat, Helvetica, sans-serif;}
 .home-carousel .owl-carousel {padding-top: 145px;}
 .box-simple .icon  {color: #273B8B; border-color: #8BC53F;}
 a {color: #8BC53F;}
-.testimonials .item .testimonial .bottom .icon {color: #2738b8;}
 .heading h1, .heading h2, .heading h3, .heading h4, .heading h5 {border-bottom-color: #2738b8;}
 .btn-template-main {
     color: #2738b8;
@@ -25,4 +24,26 @@ a {color: #8BC53F;}
     background: #2738b8;
     color: #FFF;
     border-color: #2738b8;
+}
+.backup-generator-splash {
+    background: url(../img/banners/banner-5.jpg) #444 no-repeat right;
+    min-height: 500px;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+.testimonials .item .testimonial .text {
+    color: #666;
+    }
+.testimonials .item .testimonial .bottom .icon {
+    color: #2738b8;
+    border: none;
+}
+.testimonials .item {background: rgba(255,255,255,0.8);}
+
+#testimonials p.lead, #testimonials h2 {
+    color: white;
+}
+div#heading-breadcrumbs {
+    background: #EEE;
+    border-top: 10px solid #2738b8;
 }
