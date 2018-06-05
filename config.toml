@@ -28,11 +28,11 @@ paginate = 10
     url  = "/#testimonials"
     weight = 2
 
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
+#[[menu.main]]
+ #  name = "FAQ"
+  #  identifier = "faq"
+   # url  = "/faq/"
+    #weight = 3
 
 [[menu.main]]
     name = "Contact"
