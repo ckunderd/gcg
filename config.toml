@@ -1,4 +1,4 @@
-baseurl = "https://floridagulfcoastgenerators.com"
+baseurl = "https://floridagulfcoastgenerators.com/"
 title = "Gulf Coast Generators"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -42,27 +42,15 @@ paginate = 10
 # Top bar social links menu
 
 [[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://www.facebook.com/Gulf-Coast-Generators-2113934385289542/"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:info@floridagulfcoastgenerators.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
@@ -99,17 +87,13 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo_400px.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p><strong>Gulf Coast Generators</strong>
+        <br>20325 Corkscrew Shores Blvd
+        <br>Estero, FL 33928
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "26.448458"
+    longitude = "-81.723017"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -117,7 +101,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us today! 305-771-3703 or email info@floridagulfcoastgenerators.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
