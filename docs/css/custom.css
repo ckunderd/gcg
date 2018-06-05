@@ -1,1 +1,14 @@
+body, h1, h2, h3, h4, h5, h6 {font-family: Montserrat, Helvetica, sans-serif;}
 .navbar {min-height: 130px;}
+.navbar ul.nav > li > a {line-height: 83px; text-decoration: none;}
+navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #555555;
+    background-color: #EEE;
+}
+.navbar ul.nav > li > a:hover {
+    border-top: solid 5px #273B8B;
+}
+.home-carousel {background: url('../img/banners/banner-6.jpg') no-repeat bottom; background-size: cover; min-height: 500px;}
+.dark-mask {opacity: 0.2 !important; background: #273B8B !important;}
+.home-carousel h1 {text-shadow: 1px 1px 5px #111;}
+.home-carousel .owl-carousel {padding-top: 145px;}
