@@ -81,7 +81,7 @@ paginate = 10
     email = "mitchmountney@gmail.com"
 
     about_us = "<p>We offer over 30 years of experience in the electrical industry. We take on a wide range of generator installations and repairs and a variety of other jobs. We are committed to providing a personalized service for each individual project we take on and look forward to building strong, long-term relationships with our clients while guaranteeing your satisfaction.</p>"
-    copyright = "Copyright &copy; 2018, Gulf Coast Generators | All rights reserved."
+    copyright = "Copyright &copy; 2019 Gulf Coast Generators | All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -90,10 +90,13 @@ paginate = 10
     address = """<p><strong>Gulf Coast Generators</strong>
         <br>20325 Corkscrew Shores Blvd
         <br>Estero, FL 33928
+        <br><a href="tel:239-235-8078">239-235-8078</a>
+        <br><a href="mailto:info@floridagulfcoastgenerators.com">info@flordiagulfcoastgenerators.com</a>
       </p>
       """
     latitude = "26.448458"
     longitude = "-81.723017"
+    phone = "239-235-8078"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -101,7 +104,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us today! 305-771-3703.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us today! <a href="tel:239-235-8078">239-235-8078</a>.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
