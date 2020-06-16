@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gulf Coast Generators</title>
@@ -18,8 +18,8 @@
       
       <guid>https://floridagulfcoastgenerators.com/blog/2015/10/10/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       
       <guid>https://floridagulfcoastgenerators.com/blog/2015/10/02/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://floridagulfcoastgenerators.com/contact/</guid>
-      <description>We are here to help you! Call 239-235-8078 for fastest service! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please fill out the form below. Our team will repsond to you as soon as possible! Or feel free to message us on our Facebook page for prompt service.</description>
+      <description>We are here to help you! Book an appointment for fastest service! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please schedule an appointment with a generator specialist. If you want to leave a general comment or question, please fill out the form below, or call us at 239-235-8078.</description>
     </item>
     
     <item>
@@ -83,6 +83,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <guid>https://floridagulfcoastgenerators.com/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Free Consultation</title>
+      <link>https://floridagulfcoastgenerators.com/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floridagulfcoastgenerators.com/schedule/</guid>
+      <description>Book a 10 minute estimate call now! If you are interested in a free consultation or quote, or simply have a question about generator maintenance, installation, or something else, please schedule a time and we will have a generator specialist call you!</description>
     </item>
     
   </channel>
