@@ -56,3 +56,25 @@ div#heading-breadcrumbs {
     width: 200px;
     margin-top: 30px;
 }
+img.visible-xs.visible-sm {
+    width: 235px;
+}
+.navbar .navbar-buttons {
+    float: right;
+    margin-top: 30px;
+}
+@media (max-width:767px){
+.navbar ul.nav > li > a {
+    line-height: 40px;
+    text-decoration: none;
+}
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border: none;
+}
+}
+.subheading {font-size: 50px; font-weight:400;}
+.mainheading {font-size: 100px; font-weight:700;}
+@media (max-width:500px) {
+    .subheading {font-size: 30px; font-weight:400;}
+    .mainheading {font-size: 70px; font-weight:700;}
+}
